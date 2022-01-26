@@ -56,7 +56,7 @@
     "markdown-it-myst-extras": "^0.1.3"
   },
   "devDependencies": {
-    "@jupyterlab/builder": "^3.0.0",
+    "@jupyterlab/builder": "^3.2.0",
     "@types/punycode": "^2.1.0",
     "@typescript-eslint/eslint-plugin": "^4.8.1",
     "@typescript-eslint/parser": "^4.8.1",
